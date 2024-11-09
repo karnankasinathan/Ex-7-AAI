@@ -1,7 +1,7 @@
 <H3>NAME:Karnan K</H3>
 <H3>REGISTER NO:212222230062</H3>
-<H3>EX. NO.7</H3>
 <H3>DATE:</H3>
+<H3>EX. NO.7</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
